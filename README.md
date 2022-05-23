@@ -112,7 +112,7 @@ http://www.facebook.com/mimtiazahmed20
 
 ### markdown link sytax
 
-[studywithanis](http://www.facebook.com/mimtiazahmed20)
+[studywithanis](http://www.facebook.com/russellimtiazbd)
 
 ### markdown link sytax
 
@@ -121,7 +121,7 @@ http://www.facebook.com/mimtiazahmed20
 
 <br/>
 
-### image sytax
+### image syntax
 
 <!-- ![profile](./images/me.jpg) -->
 <img src="./images/facebook.png" width="400" title="profile image"/>
@@ -133,12 +133,12 @@ http://www.facebook.com/mimtiazahmed20
 
 | Name         | Email                  |
 | ------------ | ---------------------- |
-| Anisul Islam | Text is here           |
-| Anisul Islam | anisul2010@yahoo.co.uk |
-| Anisul Islam | Text is here           |
+| Russell Imtiaz | Text is here           |
+| Russell Imtiaz | example@gmail.com |
+| Russell Imtiaz | Text is here           |
 
 <!-- all link is here -->
 
-[facebookprofile]: http://www.facebook.com/mimtiazahmed20
-[facebookpage]: http://www.facebook.com/mimtiazahmed30
+[facebookprofile]: http://www.facebook.com/russellimtiazbd
+[facebookpage]: http://www.facebook.com/russellimtiazbd
 
